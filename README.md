@@ -2,4 +2,4 @@
 
 Little project off freecodecamp, good refresher using CSS GRID
 
-See the Project here: [CSSGRIDProject](https://thenuggitman.github.io/CSSGridMagazine/ "CSS GRIS Project"){:target="_blank"}
+See the Project here: [CSSGRIDProject](https://thenuggitman.github.io/CSSGridMagazine/ "CSS GRIS Project")
